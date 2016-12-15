@@ -1,0 +1,3 @@
+public enum GameState {
+    FIRST_RUN, PREPARE, AIMING, RECORD_MOUSE, POWER, LAUNCH, WAIT, DRAG_CUE
+}
